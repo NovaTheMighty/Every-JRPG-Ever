@@ -1,4 +1,2 @@
-### NTM Studios Presents
-# Every JRPG Ever
-
-# Development Log
+### NTM Studios Presents: "Every JRPG Ever"
+# DEVLOG
