@@ -34,10 +34,8 @@ EJRPGE is an indie Japanese Role-Playing Game, or JRPG, developed by Erik "NovaT
   - The first thing I planned is the story. It is complete
   - We're working on the actual game now.
   - The OST is also being composed as of 12/26/18
-  - After the final chapter is released, we will focus on specific artwork, like cutscenes.
-- Cutscenes? There will be cutscenes?
-  - Yes. There will be traditional 2D, anime style cutscenes to fit the aesthetic of the game. They will be drawn in-house, and if we have the resources by the end of the development period (or even afterwards, as an update), fully voiced.
-  
+  - After the final chapter is released, we will focus on specific artwork.
+
 # Known Bugs
 - There are certain areas where talking to an NPC with a specific move route on a specific tile will softlock the game. Known NPCs affected include the waitress in the Seaside Town Tavern. As of 12/26/18, the bug has not been resolved, and there are no plans to fix it until later on in development, as triggering it can be prevented. 
 
