@@ -41,6 +41,7 @@ EJRPGE is an indie Japanese Role-Playing Game, or JRPG, developed by Erik "NovaT
 
 # Major Updates
 - As of 12/20/18, the demo has been completed. It contains a slightly modified prologue and chapter 1. It can be downloaded for free at https://gamejolt.com/games/thatjrpg/383511.
+- 12/27/18: Work has begun on Chapter 2 of EJRPGE. Expected release is end of December 2018 / New Year 2019
 
 # Minor Updates
 - None
